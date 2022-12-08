@@ -131,6 +131,7 @@ ExecStart=/usr/bin/find_user.service
 WantedBy=multi-user.target
 
 ```
+- Note I put the servce file in usr/bin
 
 **Part 6 4 points**
 
